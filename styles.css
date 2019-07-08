@@ -14,12 +14,12 @@ html, body {
 }
 
 .dsx-bg {
-  background-color: #3b27ba;
+  background-color: white;
   background-image:
-  radial-gradient(white, rgba(255,255,255,.2) 1px, transparent 8px),
-  radial-gradient(white, rgba(255,255,255,.15) 0.5px, transparent 2px),
-  radial-gradient(white, rgba(255,255,255,.1) 1px, transparent 4px),
-  radial-gradient(rgba(255,255,255,.4), rgba(255,255,255,.1) 2px, transparent 4px);
+  radial-gradient(black, rgba(2, 0, 0, 0.151) 1px, transparent 8px),
+  radial-gradient(black, rgba(2,0,0,.15) 0.5px, transparent 2px),
+  radial-gradient(black, rgba(2,0,0,.1) 1px, transparent 4px),
+  radial-gradient(rgba(2,0,0,.4), rgba(2,0,0,.1) 2px, transparent 4px);
   background-size: 550px 550px, 350px 350px, 250px 250px, 150px 150px;
   background-position: 0 0, 40px 60px, 130px 270px, 70px 100px;
 }
@@ -32,7 +32,7 @@ html, body {
 .dsx-coming-soon {
   font-size: 80%;
   font-size: 0.8rem;
-  color: white;
+  color: black;
   fill: white;
 }
 
